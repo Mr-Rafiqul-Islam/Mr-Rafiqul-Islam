@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/D5616AQGqSQekVCxp4A/profile-displaybackgroundimage-shrink_350_1400/0/1704998072195?e=1720051200&v=beta&t=_hurpR1fZLxk5pE1-RvwbZ1I-7NIXw6DEPcRYxXPlvo" alt="Cover Photo">
+    <img src="https://media.licdn.com/dms/image/D5616AQGqSQekVCxp4A/profile-displaybackgroundimage-shrink_350_1400/0/1704998072195?e=1726704000&v=beta&t=iA0V0rAcukcQEn-W32Ehr-0dRyJk5eo2-DXd97zmcwk" alt="Cover Photo">
 </div>
 <h1 align="center">Hi 👋, I'm Mr. Rafiqul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
